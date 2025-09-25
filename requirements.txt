@@ -1,0 +1,11 @@
+ccxt==2.*
+python-dotenv
+pandas
+numpy
+requests
+scikit-learn
+vectorbt
+ta
+aiohttp
+python-telegram-bot
+sqlalchemy
